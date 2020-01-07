@@ -1,2 +1,5 @@
 # Event-Scheduler-Web-App-
-Allows the person to add events or todos in the list ,strike it off for later or delete it permanenetly
+Allows the person to :
+1. add events or todos in the list ,
+2.strike it off for later 
+3.delete event permanenetly
